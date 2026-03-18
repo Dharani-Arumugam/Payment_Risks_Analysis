@@ -4,7 +4,7 @@ An end-to-end data engineering project simulating a real-world payments system u
 Designed and implemented a scalable data pipeline using Databricks Auto Loader and Delta Lake to process 2K+ simulated payment transactions, enriching data with cross-border, risk-tier, and payment-method signals in the Silver layer.
 
 ## ARCHITECTURE 
-![Architecture](architecture/architecture.png)
+![Architecture](architecture/databricks_medallion_architecture.png)
 
 ``
 Python Data Generator
